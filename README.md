@@ -1,4 +1,4 @@
-# Hello, My Slef Lokesh 👋
+# Hello, I am Lokesh Kumar 👋
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lokesh-kumar-010926291/)
 
