@@ -1,19 +1,23 @@
-# नमस्ते, मैं Lokesh 👋
+# Hello, My Slef Lokesh 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/<your-linkedin-username>) [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/<your-twitter-handle>)
+[![LinkedIn](https://www.linkedin.com/in/lokesh-kumar-010926291/) ] 
 
 ## 🚀 About Me
-MERN Stack Developer | React • Node.js • Express • MongoDB  
-मैं scalable और user-friendly web applications बनाना पसंद करता हूँ। अभी React, Node.js और कुछ Open Source projects पर काम कर रहा हूँ।
+Hi, I'm Lokesh Kumar — a passionate MERN Stack Developer!  
+I love building **scalable and user-friendly web applications** using **React, Next , Node.js, Express, and MongoDB**.  
+
+Currently, I'm exploring **advanced JavaScript concepts, React ecosystem, and contributing to open source projects**.  
+I enjoy **learning new technologies**, solving coding challenges, and continuously improving my development skills.
 
 ## 🛠️ Tech Stack
-- Frontend: React, Next.js, HTML, CSS, Tailwind
+- Frontend: React, Next.js, HTML, CSS, JavaScript , Tailwind CSS , BOOTSRAP,
 - Backend: Node.js, Express
 - Database: MongoDB
-- Tools: Git, GitHub, Postman, VSCode
+- Tools: Git, GitHub, VSCode
 
 ## 🔭 Projects (Selected)
-- **Project One** — Short description. [Demo](#) • [Repo](https://github.com/<your-github-username>/project-one)  
+- **Movie Search App (React.js + API) ** — • Integrated external API to fetch and display real-time movie details. 
+• Implemented search functionality with a responsive UI. . [https://movie-search-apps-beige.vercel.app/](#) • [Repo](https://github.com/lokesh-kumar8000/movie-search-apps)  
 - **Project Two** — Short description. [Demo](#) • [Repo](https://github.com/<your-github-username>/project-two)
 
 ## 📫 Contact
