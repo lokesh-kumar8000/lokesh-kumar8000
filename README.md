@@ -39,6 +39,8 @@ I enjoy **learning new technologies**, solving coding challenges, and continuous
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-kumar&layout=compact&theme=radical)
 
+![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-kumar&show_icons=true&theme=radical)
+
 
 
 ✨ Thanks for visiting — feel free to connect!
