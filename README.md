@@ -16,19 +16,29 @@ I enjoy **learning new technologies**, solving coding challenges, and continuous
 - Tools: Git, GitHub, VSCode
 
 ## 🔭 Projects (Selected)
-- **Movie Search App (React.js + API) ** — • Integrated external API to fetch and display real-time movie details. 
-• Implemented search functionality with a responsive UI. . [https://movie-search-apps-beige.vercel.app/](#) • [Repo](https://github.com/lokesh-kumar8000/movie-search-apps)  
-- **Project Two** — Short description. [Demo](#) • [Repo](https://github.com/<your-github-username>/project-two)
+- **Movie Search App (React.js + API) ** 
+- Integrated external API to fetch and display real-time movie details. 
+- Implemented search functionality with a responsive UI. .
+- [Demo](https://movie-search-apps-beige.vercel.app/) • [Repo](https://github.com/lokesh-kumar8000/movie-search-apps)  
+- **Demo Kart – E-commerce Website (React.js + Tailwind CSS) ** 
+- Built a responsive frontend e-commerce website with product listing, categories, and shopping cart features. 
+- Designed clean, reusable, and user-friendly UI components. 
+- [Demo](https://demokart.vercel.app/) • [Repo](https://github.com/lokesh-kumar8000/demokart)
 
 ## 📫 Contact
-- Email: your.email@example.com  
-- Portfolio: https://<your-domain-or-username>.github.io
+- Email: lokesh800095kumar@gmail.com
+
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
----
+<!-- Total Contributions Graph -->
+![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-kumar&show_icons=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-kumar&layout=compact&theme=radical)
+
+
 
 ✨ Thanks for visiting — feel free to connect!
