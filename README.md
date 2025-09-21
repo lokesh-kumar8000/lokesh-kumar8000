@@ -1,6 +1,7 @@
 # Hello, My Slef Lokesh 👋
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lokesh-kumar-010926291/)
 
-[![LinkedIn](https://www.linkedin.com/in/lokesh-kumar-010926291/) ] 
 
 ## 🚀 About Me
 Hi, I'm Lokesh Kumar — a passionate MERN Stack Developer!  
@@ -39,7 +40,7 @@ I enjoy **learning new technologies**, solving coding challenges, and continuous
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-kumar&layout=compact&theme=radical)
 
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-kumar&show_icons=true&theme=radical)
+
 
 
 
